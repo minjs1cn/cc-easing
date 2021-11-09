@@ -1,5 +1,5 @@
 {
-	"name": "@cc/easing",
+	"name": "@byte1024/easing",
 	"version": "0.0.1",
 	"main": "dist/main.es.js",
 	"description": "some easing motion functions",
