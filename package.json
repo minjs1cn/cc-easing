@@ -1,6 +1,6 @@
 {
 	"name": "@cc/easing",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"main": "dist/main.es.js",
 	"description": "some easing motion functions",
 	"publishConfig": {
@@ -12,7 +12,7 @@
 	},
 	"author": {
 		"name": "青杨",
-		"email": "303890562@qq.com"
+		"email": "qingyang_88@sina.com"
 	},
 	"keywords": [
 		"@cc",
