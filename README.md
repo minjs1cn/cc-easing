@@ -5,13 +5,13 @@
 ## Install
 
 ```bash
-$ yarn add @cc/easing
+$ yarn add @byte1024/easing
 ```
 
 ## Usage
 
 ```ts
-import { motion, Easing } from '@cc/easing';
+import { motion, Easing } from '@byte1024/easing';
 
 let from = 0,
 	to = 300,

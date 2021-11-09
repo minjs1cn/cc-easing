@@ -1,6 +1,6 @@
 {
 	"name": "@byte1024/easing",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"main": "dist/main.es.js",
 	"description": "some easing motion functions",
 	"publishConfig": {
