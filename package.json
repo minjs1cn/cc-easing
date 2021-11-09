@@ -1,6 +1,6 @@
 {
 	"name": "@byte1024/easing",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "dist/main.es.js",
 	"description": "some easing motion functions",
 	"publishConfig": {
@@ -15,7 +15,7 @@
 		"email": "qingyang_88@sina.com"
 	},
 	"keywords": [
-		"@cc",
+		"@byte2014",
 		"ease",
 		"easing"
 	],
