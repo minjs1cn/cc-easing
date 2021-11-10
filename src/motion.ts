@@ -8,12 +8,12 @@ function _motion(from: number, to: number, k: number) {
 	return from + (to - from) * k;
 }
 
-export function motion<T extends number, K extends T>(
+export function motion<T extends number>(
 	from: T,
-	to: K,
+	to: T,
 	k: number,
 	easing: TEasing,
-): K;
+): T;
 export function motion<T extends TMotionProps, K extends T>(
 	from: T,
 	to: K,
